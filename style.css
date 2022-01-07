@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+#image{
+    width:1350;
+    height:300;
+    vertical-align:middle;
+}
+h3,h4{
+    color: rosybrown
+}
+table {
+   text-align: center;
+   vertical-align:middle;     
+}
+th {
+    color:brown;
+    background-color: antiquewhite;
+}
